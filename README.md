@@ -1,6 +1,6 @@
 # 📊 Análise de Séries Temporais: Endividamento das Famílias Brasileiras
 
-Este projeto tem como objetivo analisar séries temporais disponibilizadas pelo Banco Central do Brasil (BCB), focando especialmente no endividamento das famílias brasileiras. A análise foi realizada por meio da extração, limpeza e visualização dos dados, utilizando gráficos de linha para observar tendências ao longo do tempo.
+Este trabalho tem como objetivo analisar séries temporais disponibilizadas pelo Banco Central do Brasil (BCB), focando especialmente no endividamento das famílias brasileiras. A análise foi realizada por meio da extração, limpeza e visualização dos dados, utilizando gráficos de linha para observar tendências ao longo do tempo.
 
 ## 🔗 Fontes de Dados
 
