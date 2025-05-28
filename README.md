@@ -20,26 +20,18 @@ Os dados utilizados neste projeto foram obtidos a partir das seguintes fontes:
 - Google Colab
 - Pandas
 - Matplotlib
-- Seaborn
-- Numpy
 
 ## 📈 Metodologia
 
 ### 1. Escolha e Análise do Conjunto de Endividamento das Famílias
 - Um dos conjuntos de dados do endereço `https://acesse.one/GbGhO` foi selecionado.
 - A série temporal foi carregada e plotada.
-- A tendência (crescente, decrescente ou estável) foi identificada visualmente e estatisticamente.
+- A tendência foi identificada visualmente e estatisticamente.
 
 ### 2. Análise de Tendência de Outros Dois Conjuntos de Dados
 - Dois conjuntos foram selecionados no [Portal de Dados Abertos do BCB](https://dadosabertos.bcb.gov.br/dataset/).
 - Os dados foram processados e visualizados em gráficos de linha.
 - A análise incluiu identificação de padrões e variações ao longo do tempo.
-
-## 📊 Resultados
-
-- Gráficos de linhas foram utilizados para mostrar claramente as tendências observadas.
-- A análise indicou **[INSERIR TENDÊNCIA DO PRIMEIRO CONJUNTO]** no caso do endividamento das famílias.
-- Os dois conjuntos adicionais analisados apresentaram **[INSERIR TENDÊNCIA DO SEGUNDO E TERCEIRO CONJUNTO]**.
 
 ## 📁 Arquivos
 
