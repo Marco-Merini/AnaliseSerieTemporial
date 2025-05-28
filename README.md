@@ -17,7 +17,7 @@ Os dados utilizados neste projeto foram obtidos a partir das seguintes fontes:
 ## 🧰 Ferramentas Utilizadas
 
 - Python 3
-- Jupyter Notebook
+- Google Colab
 - Pandas
 - Matplotlib
 - Seaborn
